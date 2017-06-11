@@ -5,6 +5,7 @@ const maxBufferLength = 3
 
 let walletBTC = 0
 let walletEUR = 100
+let bid = 0
 
 const socket = new WebSocket('ws://0.0.0.0')
 const buffer = []
@@ -23,6 +24,7 @@ socket.on('message', function (data) {
           console.log('IDLE: negative trend confirmed', walletBTC, walletEUR, buffer[2].amount)
         } else {
           walletBTC += walletEUR / parseFloat(buffer[2].amount)
+          bid = parseFloat(buffer[2].amount)
           walletEUR = 0
           console.log('BUY: positive trend starting', walletBTC, walletEUR, buffer[2].amount)
         }
@@ -30,9 +32,13 @@ socket.on('message', function (data) {
         if (buffer[1].amount < buffer[2].amount) {
           console.log('IDLE: positive trend confirmed', walletBTC, walletEUR, buffer[2].amount)
         } else {
-          walletEUR += walletBTC * parseFloat(buffer[2].amount)
-          walletBTC = 0
-          console.log('SELL: negative trend starting', walletBTC, walletEUR, buffer[2].amount)
+          if (parseFloat(buffer[2].amount) > bid) {
+            walletEUR += walletBTC * parseFloat(buffer[2].amount)
+            walletBTC = 0
+            console.log('SELL: negative trend starting', walletBTC, walletEUR, buffer[2].amount)
+          } else {
+            console.log('PROCRASTINATE: negative trend starting', walletBTC, walletEUR, buffer[2].amount)
+          }
         }
       }
     }

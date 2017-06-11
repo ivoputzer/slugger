@@ -51,7 +51,7 @@ const lbl = byline(file)
       client.send(message)
     }
     lbl.pause()
-    setTimeout(() => lbl.resume(), 50)
+    setTimeout(() => lbl.resume(), 5)
   })
 
 function connectionListener (ws) {
