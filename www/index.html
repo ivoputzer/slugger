@@ -3,21 +3,116 @@
 <head>
   <meta charset="utf-8">
   <title>slugger-client</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.3.0/Chart.bundle.js"></script>
 </head>
 <body>
+  <canvas id="status" width="100%" height="50%"></canvas>
+  <script>
+    const ctx = document.getElementById('status').getContext('2d')
+    const data = {
+      labels: ['BTC'],
+      datasets: [{
+        label: 'BTC',
+        data: [],
+        backgroundColor: [
+          'rgba(255, 99, 132, 0.2)',
+          'rgba(54, 162, 235, 0.2)',
+          'rgba(255, 206, 86, 0.2)',
+          'rgba(75, 192, 192, 0.2)',
+          'rgba(153, 102, 255, 0.2)',
+          'rgba(255, 159, 64, 0.2)'
+        ],
+        borderColor: [
+            'rgba(255,99,132,1)',
+            'rgba(54, 162, 235, 1)',
+            'rgba(255, 206, 86, 1)',
+            'rgba(75, 192, 192, 1)',
+            'rgba(153, 102, 255, 1)',
+            'rgba(255, 159, 64, 1)'
+        ],
+        borderWidth: 1
+      }]
+    }
+    const chart = new Chart(ctx, {
+      type: 'line',
+      options: {
+        elements: {
+          line: {
+            tension: 0,
+          }
+        },
+        scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: false
+            }
+          }]
+        }
+      }, data
+    })
+
+    // var myChart = new Chart(ctx, {
+    //   type: 'bar',
+    //   data: {
+    //     labels: ["Euro", "US Dollar", "Bitcoin", "Ethereum", "Litecoin", "Dash"],
+    //     datasets: [{
+    //       label: '# per unit',
+    //       data: [12, 19, 3, 5, 2, 3],
+    //       backgroundColor: [
+    //         'rgba(255, 99, 132, 0.2)',
+    //         'rgba(54, 162, 235, 0.2)',
+    //         'rgba(255, 206, 86, 0.2)',
+    //         'rgba(75, 192, 192, 0.2)',
+    //         'rgba(153, 102, 255, 0.2)',
+    //         'rgba(255, 159, 64, 0.2)'
+    //       ],
+    //       borderColor: [
+    //           'rgba(255,99,132,1)',
+    //           'rgba(54, 162, 235, 1)',
+    //           'rgba(255, 206, 86, 1)',
+    //           'rgba(75, 192, 192, 1)',
+    //           'rgba(153, 102, 255, 1)',
+    //           'rgba(255, 159, 64, 1)'
+    //       ],
+    //       borderWidth: 1
+    //     }]
+    //   },
+    //   options: {
+    //     scales: {
+    //       yAxes: [{
+    //         ticks: {
+    //           beginAtZero:true
+    //         }
+    //       }]
+    //     }
+    //   }
+    // })
+  </script>
   <h1>#slugger</h1>
   <script>
     /* global location */
     const endpoint = location.href.replace(/^http(.*)/, 'ws$1')
     const socket = new WebSocket(endpoint)
-    socket.addEventListener('message', function (event) {
-      console.info('endpoint:message %s', endpoint, event)
+
+    socket.addEventListener('message', function ({data}) {
+      const {time, value} = JSON.parse(data)
+      console.info('endpoint[%s] message: %s', endpoint, data)
+      chart.data.labels.push(time)
+      chart.data.datasets.forEach(dataset => {
+        dataset.data.push(value)
+        if (dataset.data.length > 100) {
+          chart.data.labels.shift()
+          dataset.data.shift()
+        }
+      })
+      chart.update()
     })
+
     socket.addEventListener('open', function (event) {
-      console.info('endpoint:open %s', endpoint, event)
+      // console.info('endpoint[%s] open: %s', endpoint, event)
     })
     socket.addEventListener('error', function (event) {
-      console.info('endpoint:error %s', endpoint, event)
+      // console.info('endpoint[%s] error: %s', endpoint, event)
     })
   </script>
 </body>

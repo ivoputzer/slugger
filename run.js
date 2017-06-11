@@ -31,6 +31,29 @@ function requestListener ({url, headers}, res) {
   function onError (err) {
   }
 }
+
+const {createReadStream} = require('fs')
+
+const byline = require('byline')
+const file = createReadStream('coinbaseEUR.csv', {encoding: 'utf8'})
+
+const lbl = byline(file)
+  .on('data', function (line) {
+    for (let client of wss.clients) {
+      const [ts, price, transfer] = line.split(',')
+      const message = JSON.stringify({
+        at: ts * 1000,
+        time: new Date(ts * 1000).toISOString(),
+        value: price,
+        amount: price
+      })
+      console.log('[wss] >> ', message)
+      client.send(message)
+    }
+    lbl.pause()
+    setTimeout(() => lbl.resume(), 50)
+  })
+
 function connectionListener (ws) {
   console.log('[wss] connected: %d', this.clients.size)
 }

@@ -11,8 +11,13 @@
     "node": "node"
   },
   "dependencies": {
+    "byline": "^5.0.0",
     "m.queue": "^2.0.1",
     "slayer": "^1.0.1",
+    "websocket-stream": "^5.0.0",
     "wss": "^3.0.2"
+  },
+  "devDependencies": {
+    "ws": "^3.0.0"
   }
 }
