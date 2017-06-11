@@ -1,4 +1,14 @@
 {
   "name": "slugger",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node $npm_package_main",
+    "node": "node"
+  },
+  "dependencies": {
+    "m.queue": "^2.0.1",
+    "slayer": "^1.0.1"
+  }
 }
