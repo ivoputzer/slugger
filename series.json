@@ -1,0 +1,3002 @@
+[
+  {
+    "amount": 2565.21,
+    "currency": "EUR",
+    "at": 1497133664525,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2558.94,
+    "currency": "EUR",
+    "at": 1497133694175,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2546.02,
+    "currency": "EUR",
+    "at": 1497133724203,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2548.42,
+    "currency": "EUR",
+    "at": 1497133754423,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2548.26,
+    "currency": "EUR",
+    "at": 1497133784518,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2547.97,
+    "currency": "EUR",
+    "at": 1497133814596,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2542.04,
+    "currency": "EUR",
+    "at": 1497133844218,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2542.05,
+    "currency": "EUR",
+    "at": 1497133874223,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2544.76,
+    "currency": "EUR",
+    "at": 1497133905271,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2548.12,
+    "currency": "EUR",
+    "at": 1497133935995,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2552.01,
+    "currency": "EUR",
+    "at": 1497133966639,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2560.73,
+    "currency": "EUR",
+    "at": 1497133996920,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2560.98,
+    "currency": "EUR",
+    "at": 1497134027388,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2560.77,
+    "currency": "EUR",
+    "at": 1497134057896,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2560.55,
+    "currency": "EUR",
+    "at": 1497134084221,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2560.55,
+    "currency": "EUR",
+    "at": 1497134114265,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2551.73,
+    "currency": "EUR",
+    "at": 1497134144373,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2553.21,
+    "currency": "EUR",
+    "at": 1497134174732,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2553.24,
+    "currency": "EUR",
+    "at": 1497134204384,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2553.23,
+    "currency": "EUR",
+    "at": 1497134234401,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2559.44,
+    "currency": "EUR",
+    "at": 1497134264696,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2557.26,
+    "currency": "EUR",
+    "at": 1497134294681,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2559.67,
+    "currency": "EUR",
+    "at": 1497134324311,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2559.91,
+    "currency": "EUR",
+    "at": 1497134354754,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2559.87,
+    "currency": "EUR",
+    "at": 1497134388496,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2560.53,
+    "currency": "EUR",
+    "at": 1497134414289,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2559.17,
+    "currency": "EUR",
+    "at": 1497134444431,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2558.59,
+    "currency": "EUR",
+    "at": 1497134474775,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2558.59,
+    "currency": "EUR",
+    "at": 1497134504613,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2560.2,
+    "currency": "EUR",
+    "at": 1497134534984,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2562.6,
+    "currency": "EUR",
+    "at": 1497134564441,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2562.79,
+    "currency": "EUR",
+    "at": 1497134594739,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2567.83,
+    "currency": "EUR",
+    "at": 1497134624370,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2568.99,
+    "currency": "EUR",
+    "at": 1497134654937,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2570.6,
+    "currency": "EUR",
+    "at": 1497134685543,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2576.15,
+    "currency": "EUR",
+    "at": 1497134716202,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2579.09,
+    "currency": "EUR",
+    "at": 1497134746490,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2579.09,
+    "currency": "EUR",
+    "at": 1497134777517,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2578.34,
+    "currency": "EUR",
+    "at": 1497134807702,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2569.23,
+    "currency": "EUR",
+    "at": 1497134838676,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2569.23,
+    "currency": "EUR",
+    "at": 1497134864395,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2567.78,
+    "currency": "EUR",
+    "at": 1497134895469,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2575.58,
+    "currency": "EUR",
+    "at": 1497134924754,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2573.82,
+    "currency": "EUR",
+    "at": 1497134959384,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2571.4,
+    "currency": "EUR",
+    "at": 1497134984659,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2574.08,
+    "currency": "EUR",
+    "at": 1497135014815,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2574.09,
+    "currency": "EUR",
+    "at": 1497135044911,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2575.34,
+    "currency": "EUR",
+    "at": 1497135076098,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2582.38,
+    "currency": "EUR",
+    "at": 1497135105278,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.47,
+    "currency": "EUR",
+    "at": 1497135136137,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2583.03,
+    "currency": "EUR",
+    "at": 1497135166976,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2585.46,
+    "currency": "EUR",
+    "at": 1497135196271,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2581.34,
+    "currency": "EUR",
+    "at": 1497135224425,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2585.95,
+    "currency": "EUR",
+    "at": 1497135254950,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.83,
+    "currency": "EUR",
+    "at": 1497135284462,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2585.62,
+    "currency": "EUR",
+    "at": 1497135314782,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2588.16,
+    "currency": "EUR",
+    "at": 1497135344917,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.82,
+    "currency": "EUR",
+    "at": 1497135374974,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.82,
+    "currency": "EUR",
+    "at": 1497135405922,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.84,
+    "currency": "EUR",
+    "at": 1497135436890,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.82,
+    "currency": "EUR",
+    "at": 1497135468184,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.75,
+    "currency": "EUR",
+    "at": 1497135495956,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2582.38,
+    "currency": "EUR",
+    "at": 1497135525692,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2582.21,
+    "currency": "EUR",
+    "at": 1497135554477,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2582.2,
+    "currency": "EUR",
+    "at": 1497135584436,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.82,
+    "currency": "EUR",
+    "at": 1497135614544,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.82,
+    "currency": "EUR",
+    "at": 1497135644819,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2582.1,
+    "currency": "EUR",
+    "at": 1497135674839,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2586.09,
+    "currency": "EUR",
+    "at": 1497135705164,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2586.13,
+    "currency": "EUR",
+    "at": 1497135735110,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2585.94,
+    "currency": "EUR",
+    "at": 1497135764941,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2586.1,
+    "currency": "EUR",
+    "at": 1497135795684,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2585.05,
+    "currency": "EUR",
+    "at": 1497135826265,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.43,
+    "currency": "EUR",
+    "at": 1497135856644,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2586.16,
+    "currency": "EUR",
+    "at": 1497135887427,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2588.38,
+    "currency": "EUR",
+    "at": 1497135917628,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2588.39,
+    "currency": "EUR",
+    "at": 1497135951115,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2589.29,
+    "currency": "EUR",
+    "at": 1497135975403,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.08,
+    "currency": "EUR",
+    "at": 1497136004961,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.34,
+    "currency": "EUR",
+    "at": 1497136035120,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.04,
+    "currency": "EUR",
+    "at": 1497136064949,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2596.35,
+    "currency": "EUR",
+    "at": 1497136094633,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.1,
+    "currency": "EUR",
+    "at": 1497136125190,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2598.65,
+    "currency": "EUR",
+    "at": 1497136155124,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2598.65,
+    "currency": "EUR",
+    "at": 1497136184981,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2596.15,
+    "currency": "EUR",
+    "at": 1497136214775,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.11,
+    "currency": "EUR",
+    "at": 1497136245249,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.1,
+    "currency": "EUR",
+    "at": 1497136275383,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.58,
+    "currency": "EUR",
+    "at": 1497136313010,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.58,
+    "currency": "EUR",
+    "at": 1497136317307,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.46,
+    "currency": "EUR",
+    "at": 1497136347406,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.18,
+    "currency": "EUR",
+    "at": 1497136377637,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.16,
+    "currency": "EUR",
+    "at": 1497136408260,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.61,
+    "currency": "EUR",
+    "at": 1497136438775,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.56,
+    "currency": "EUR",
+    "at": 1497136476198,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.58,
+    "currency": "EUR",
+    "at": 1497136500171,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.47,
+    "currency": "EUR",
+    "at": 1497136530311,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.47,
+    "currency": "EUR",
+    "at": 1497136558458,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.04,
+    "currency": "EUR",
+    "at": 1497136587415,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.74,
+    "currency": "EUR",
+    "at": 1497136617073,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.02,
+    "currency": "EUR",
+    "at": 1497136647230,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2587.92,
+    "currency": "EUR",
+    "at": 1497136677482,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.99,
+    "currency": "EUR",
+    "at": 1497136707045,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2607.62,
+    "currency": "EUR",
+    "at": 1497136737073,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2607.68,
+    "currency": "EUR",
+    "at": 1497136767232,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608,
+    "currency": "EUR",
+    "at": 1497136797124,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.62,
+    "currency": "EUR",
+    "at": 1497136826928,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.97,
+    "currency": "EUR",
+    "at": 1497136857630,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.96,
+    "currency": "EUR",
+    "at": 1497136887937,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.58,
+    "currency": "EUR",
+    "at": 1497136918111,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.26,
+    "currency": "EUR",
+    "at": 1497136949194,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2607.96,
+    "currency": "EUR",
+    "at": 1497136979650,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.93,
+    "currency": "EUR",
+    "at": 1497137010018,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2607.37,
+    "currency": "EUR",
+    "at": 1497137040195,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.45,
+    "currency": "EUR",
+    "at": 1497137070701,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.48,
+    "currency": "EUR",
+    "at": 1497137096990,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.49,
+    "currency": "EUR",
+    "at": 1497137127116,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.01,
+    "currency": "EUR",
+    "at": 1497137157177,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.78,
+    "currency": "EUR",
+    "at": 1497137187127,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.21,
+    "currency": "EUR",
+    "at": 1497137217054,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.64,
+    "currency": "EUR",
+    "at": 1497137247080,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.66,
+    "currency": "EUR",
+    "at": 1497137276807,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.35,
+    "currency": "EUR",
+    "at": 1497137307129,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.65,
+    "currency": "EUR",
+    "at": 1497137337221,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.9,
+    "currency": "EUR",
+    "at": 1497137366740,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.52,
+    "currency": "EUR",
+    "at": 1497137397392,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.65,
+    "currency": "EUR",
+    "at": 1497137427777,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2607.53,
+    "currency": "EUR",
+    "at": 1497137458184,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2606.68,
+    "currency": "EUR",
+    "at": 1497137489185,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.08,
+    "currency": "EUR",
+    "at": 1497137511346,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2606,
+    "currency": "EUR",
+    "at": 1497137520224,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2606,
+    "currency": "EUR",
+    "at": 1497137530243,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.05,
+    "currency": "EUR",
+    "at": 1497137548975,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.05,
+    "currency": "EUR",
+    "at": 1497137550593,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.37,
+    "currency": "EUR",
+    "at": 1497137560428,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.61,
+    "currency": "EUR",
+    "at": 1497137570545,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.61,
+    "currency": "EUR",
+    "at": 1497137580677,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.01,
+    "currency": "EUR",
+    "at": 1497137584372,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.01,
+    "currency": "EUR",
+    "at": 1497137585267,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.01,
+    "currency": "EUR",
+    "at": 1497137605138,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2607.4,
+    "currency": "EUR",
+    "at": 1497137625490,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.5,
+    "currency": "EUR",
+    "at": 1497137645187,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.5,
+    "currency": "EUR",
+    "at": 1497137665970,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.02,
+    "currency": "EUR",
+    "at": 1497137685976,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.2,
+    "currency": "EUR",
+    "at": 1497137706466,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.2,
+    "currency": "EUR",
+    "at": 1497137726527,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.37,
+    "currency": "EUR",
+    "at": 1497137746281,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.13,
+    "currency": "EUR",
+    "at": 1497137766312,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2612.8,
+    "currency": "EUR",
+    "at": 1497137786080,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2618.29,
+    "currency": "EUR",
+    "at": 1497137805983,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2615.47,
+    "currency": "EUR",
+    "at": 1497137826855,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2615.47,
+    "currency": "EUR",
+    "at": 1497137846877,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2613.19,
+    "currency": "EUR",
+    "at": 1497137867780,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2614.48,
+    "currency": "EUR",
+    "at": 1497137888200,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2620.53,
+    "currency": "EUR",
+    "at": 1497137908519,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2623.15,
+    "currency": "EUR",
+    "at": 1497137928612,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2619.37,
+    "currency": "EUR",
+    "at": 1497137949379,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2619.29,
+    "currency": "EUR",
+    "at": 1497137969310,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2619.66,
+    "currency": "EUR",
+    "at": 1497137989816,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.77,
+    "currency": "EUR",
+    "at": 1497138010203,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2618.42,
+    "currency": "EUR",
+    "at": 1497138026527,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2618.72,
+    "currency": "EUR",
+    "at": 1497138046060,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2618.14,
+    "currency": "EUR",
+    "at": 1497138066150,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2618.11,
+    "currency": "EUR",
+    "at": 1497138086069,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.97,
+    "currency": "EUR",
+    "at": 1497138106030,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.98,
+    "currency": "EUR",
+    "at": 1497138126542,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.97,
+    "currency": "EUR",
+    "at": 1497138146198,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.97,
+    "currency": "EUR",
+    "at": 1497138166211,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2614.4,
+    "currency": "EUR",
+    "at": 1497138186737,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2614.84,
+    "currency": "EUR",
+    "at": 1497138206052,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2614.41,
+    "currency": "EUR",
+    "at": 1497138226088,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2610.97,
+    "currency": "EUR",
+    "at": 1497138246136,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2610.98,
+    "currency": "EUR",
+    "at": 1497138266595,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.67,
+    "currency": "EUR",
+    "at": 1497138286366,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.66,
+    "currency": "EUR",
+    "at": 1497138306840,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.66,
+    "currency": "EUR",
+    "at": 1497138327104,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.13,
+    "currency": "EUR",
+    "at": 1497138347345,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.1,
+    "currency": "EUR",
+    "at": 1497138367880,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.11,
+    "currency": "EUR",
+    "at": 1497138388573,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.13,
+    "currency": "EUR",
+    "at": 1497138408971,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.46,
+    "currency": "EUR",
+    "at": 1497138429406,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.45,
+    "currency": "EUR",
+    "at": 1497138449932,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.47,
+    "currency": "EUR",
+    "at": 1497138469931,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.83,
+    "currency": "EUR",
+    "at": 1497138492070,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.83,
+    "currency": "EUR",
+    "at": 1497138510459,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.47,
+    "currency": "EUR",
+    "at": 1497138546791,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.45,
+    "currency": "EUR",
+    "at": 1497138566507,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.73,
+    "currency": "EUR",
+    "at": 1497138586285,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.65,
+    "currency": "EUR",
+    "at": 1497138606535,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2612.2,
+    "currency": "EUR",
+    "at": 1497138626198,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2619.45,
+    "currency": "EUR",
+    "at": 1497138646671,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2619.45,
+    "currency": "EUR",
+    "at": 1497138666741,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2619.6,
+    "currency": "EUR",
+    "at": 1497138686837,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2620.31,
+    "currency": "EUR",
+    "at": 1497138706595,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2620.17,
+    "currency": "EUR",
+    "at": 1497138726631,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2625.91,
+    "currency": "EUR",
+    "at": 1497138746442,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2625.91,
+    "currency": "EUR",
+    "at": 1497138766756,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2626.53,
+    "currency": "EUR",
+    "at": 1497138792615,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2626.54,
+    "currency": "EUR",
+    "at": 1497138806119,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2623.4,
+    "currency": "EUR",
+    "at": 1497138826719,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2620.35,
+    "currency": "EUR",
+    "at": 1497138846377,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2622.89,
+    "currency": "EUR",
+    "at": 1497138866879,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2620.57,
+    "currency": "EUR",
+    "at": 1497138886531,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2624.09,
+    "currency": "EUR",
+    "at": 1497138906798,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2622.97,
+    "currency": "EUR",
+    "at": 1497138926840,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2622.98,
+    "currency": "EUR",
+    "at": 1497138946234,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2624.12,
+    "currency": "EUR",
+    "at": 1497138966198,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2623,
+    "currency": "EUR",
+    "at": 1497138986505,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2624.07,
+    "currency": "EUR",
+    "at": 1497139007159,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2621.47,
+    "currency": "EUR",
+    "at": 1497139027020,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2621.47,
+    "currency": "EUR",
+    "at": 1497139046682,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2621.47,
+    "currency": "EUR",
+    "at": 1497139066537,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2621.47,
+    "currency": "EUR",
+    "at": 1497139086477,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2621.47,
+    "currency": "EUR",
+    "at": 1497139107510,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2621.46,
+    "currency": "EUR",
+    "at": 1497139127600,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2621.47,
+    "currency": "EUR",
+    "at": 1497139147647,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2620.27,
+    "currency": "EUR",
+    "at": 1497139168324,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2620.32,
+    "currency": "EUR",
+    "at": 1497139188990,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.87,
+    "currency": "EUR",
+    "at": 1497139209015,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.7,
+    "currency": "EUR",
+    "at": 1497139229655,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2615.58,
+    "currency": "EUR",
+    "at": 1497139249563,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2614.78,
+    "currency": "EUR",
+    "at": 1497139270126,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2614.14,
+    "currency": "EUR",
+    "at": 1497139287481,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2611.98,
+    "currency": "EUR",
+    "at": 1497139306773,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.83,
+    "currency": "EUR",
+    "at": 1497139326535,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.83,
+    "currency": "EUR",
+    "at": 1497139346314,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.67,
+    "currency": "EUR",
+    "at": 1497139366784,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.67,
+    "currency": "EUR",
+    "at": 1497139386447,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2615.69,
+    "currency": "EUR",
+    "at": 1497139410857,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.83,
+    "currency": "EUR",
+    "at": 1497139430339,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2615.51,
+    "currency": "EUR",
+    "at": 1497139446405,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.54,
+    "currency": "EUR",
+    "at": 1497139466256,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2620.14,
+    "currency": "EUR",
+    "at": 1497139486296,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2620.53,
+    "currency": "EUR",
+    "at": 1497139506652,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.83,
+    "currency": "EUR",
+    "at": 1497139526602,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.94,
+    "currency": "EUR",
+    "at": 1497139546691,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.88,
+    "currency": "EUR",
+    "at": 1497139566660,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.79,
+    "currency": "EUR",
+    "at": 1497139586335,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.33,
+    "currency": "EUR",
+    "at": 1497139606601,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.62,
+    "currency": "EUR",
+    "at": 1497139608792,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.62,
+    "currency": "EUR",
+    "at": 1497139609912,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.78,
+    "currency": "EUR",
+    "at": 1497139669924,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.79,
+    "currency": "EUR",
+    "at": 1497139730101,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2615.62,
+    "currency": "EUR",
+    "at": 1497139790069,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2613.5,
+    "currency": "EUR",
+    "at": 1497139850459,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2614.6,
+    "currency": "EUR",
+    "at": 1497139911243,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2614.57,
+    "currency": "EUR",
+    "at": 1497139972846,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2614.61,
+    "currency": "EUR",
+    "at": 1497140036257,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.17,
+    "currency": "EUR",
+    "at": 1497140090113,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2617.87,
+    "currency": "EUR",
+    "at": 1497140150249,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2621.44,
+    "currency": "EUR",
+    "at": 1497140209902,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2621.38,
+    "currency": "EUR",
+    "at": 1497140270247,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2623.4,
+    "currency": "EUR",
+    "at": 1497140330615,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2621.34,
+    "currency": "EUR",
+    "at": 1497140391280,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2622.36,
+    "currency": "EUR",
+    "at": 1497140452976,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2619.46,
+    "currency": "EUR",
+    "at": 1497140514087,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2619.46,
+    "currency": "EUR",
+    "at": 1497140517936,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2619.64,
+    "currency": "EUR",
+    "at": 1497140577712,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2618.86,
+    "currency": "EUR",
+    "at": 1497140637461,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.97,
+    "currency": "EUR",
+    "at": 1497140697796,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2606.16,
+    "currency": "EUR",
+    "at": 1497140758815,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2611.33,
+    "currency": "EUR",
+    "at": 1497140819860,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.45,
+    "currency": "EUR",
+    "at": 1497140880951,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.63,
+    "currency": "EUR",
+    "at": 1497140937465,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2607.36,
+    "currency": "EUR",
+    "at": 1497140997746,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2611.69,
+    "currency": "EUR",
+    "at": 1497141057793,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2611.79,
+    "currency": "EUR",
+    "at": 1497141117715,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2611.79,
+    "currency": "EUR",
+    "at": 1497141177740,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.41,
+    "currency": "EUR",
+    "at": 1497141238827,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2611.69,
+    "currency": "EUR",
+    "at": 1497141300138,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2615.71,
+    "currency": "EUR",
+    "at": 1497141360944,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2620.03,
+    "currency": "EUR",
+    "at": 1497141417870,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2618.18,
+    "currency": "EUR",
+    "at": 1497141478024,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2616.01,
+    "currency": "EUR",
+    "at": 1497141538030,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2612.86,
+    "currency": "EUR",
+    "at": 1497141597892,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2610.92,
+    "currency": "EUR",
+    "at": 1497141658038,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.71,
+    "currency": "EUR",
+    "at": 1497141719596,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.73,
+    "currency": "EUR",
+    "at": 1497141780917,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.67,
+    "currency": "EUR",
+    "at": 1497141841624,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.16,
+    "currency": "EUR",
+    "at": 1497141897379,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2607.97,
+    "currency": "EUR",
+    "at": 1497141957826,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.71,
+    "currency": "EUR",
+    "at": 1497142019881,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.06,
+    "currency": "EUR",
+    "at": 1497142083360,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2607.74,
+    "currency": "EUR",
+    "at": 1497142138352,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2607.48,
+    "currency": "EUR",
+    "at": 1497142198090,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.27,
+    "currency": "EUR",
+    "at": 1497142257976,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.23,
+    "currency": "EUR",
+    "at": 1497142317904,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.52,
+    "currency": "EUR",
+    "at": 1497142378553,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.21,
+    "currency": "EUR",
+    "at": 1497142440053,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.21,
+    "currency": "EUR",
+    "at": 1497142501343,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.21,
+    "currency": "EUR",
+    "at": 1497142557833,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.49,
+    "currency": "EUR",
+    "at": 1497142617988,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.16,
+    "currency": "EUR",
+    "at": 1497142677494,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.55,
+    "currency": "EUR",
+    "at": 1497142738017,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.14,
+    "currency": "EUR",
+    "at": 1497142802659,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.17,
+    "currency": "EUR",
+    "at": 1497142857948,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.14,
+    "currency": "EUR",
+    "at": 1497142920705,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.14,
+    "currency": "EUR",
+    "at": 1497142979442,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.03,
+    "currency": "EUR",
+    "at": 1497143041151,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2606.73,
+    "currency": "EUR",
+    "at": 1497143097451,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.25,
+    "currency": "EUR",
+    "at": 1497143157810,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2606.07,
+    "currency": "EUR",
+    "at": 1497143218029,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.48,
+    "currency": "EUR",
+    "at": 1497143277808,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.93,
+    "currency": "EUR",
+    "at": 1497143337773,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.92,
+    "currency": "EUR",
+    "at": 1497143399366,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.91,
+    "currency": "EUR",
+    "at": 1497143460944,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.92,
+    "currency": "EUR",
+    "at": 1497143519154,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2610.26,
+    "currency": "EUR",
+    "at": 1497143578058,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2611.5,
+    "currency": "EUR",
+    "at": 1497143638015,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2614.08,
+    "currency": "EUR",
+    "at": 1497143698116,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2610.85,
+    "currency": "EUR",
+    "at": 1497143757864,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.98,
+    "currency": "EUR",
+    "at": 1497143819112,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2596.39,
+    "currency": "EUR",
+    "at": 1497143880601,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.56,
+    "currency": "EUR",
+    "at": 1497143941420,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.58,
+    "currency": "EUR",
+    "at": 1497143997893,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.95,
+    "currency": "EUR",
+    "at": 1497144057922,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.89,
+    "currency": "EUR",
+    "at": 1497144117862,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.93,
+    "currency": "EUR",
+    "at": 1497144177914,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.27,
+    "currency": "EUR",
+    "at": 1497144238735,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.74,
+    "currency": "EUR",
+    "at": 1497144299889,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.07,
+    "currency": "EUR",
+    "at": 1497144361330,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.14,
+    "currency": "EUR",
+    "at": 1497144417964,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.47,
+    "currency": "EUR",
+    "at": 1497144477965,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2612.79,
+    "currency": "EUR",
+    "at": 1497144537704,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2610.27,
+    "currency": "EUR",
+    "at": 1497144601342,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2609.14,
+    "currency": "EUR",
+    "at": 1497144663513,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.95,
+    "currency": "EUR",
+    "at": 1497144722187,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2605.31,
+    "currency": "EUR",
+    "at": 1497144778015,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.11,
+    "currency": "EUR",
+    "at": 1497144837652,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.39,
+    "currency": "EUR",
+    "at": 1497144898087,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.36,
+    "currency": "EUR",
+    "at": 1497144958056,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.24,
+    "currency": "EUR",
+    "at": 1497169010309,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2586.32,
+    "currency": "EUR",
+    "at": 1497169155665,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.55,
+    "currency": "EUR",
+    "at": 1497169216155,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2584.59,
+    "currency": "EUR",
+    "at": 1497169273204,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2583.51,
+    "currency": "EUR",
+    "at": 1497169333720,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2581.76,
+    "currency": "EUR",
+    "at": 1497169393786,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2579.24,
+    "currency": "EUR",
+    "at": 1497169453825,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2577.85,
+    "currency": "EUR",
+    "at": 1497169513999,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2577.28,
+    "currency": "EUR",
+    "at": 1497169574461,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2576.11,
+    "currency": "EUR",
+    "at": 1497169636121,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2576.23,
+    "currency": "EUR",
+    "at": 1497169693681,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2576.2,
+    "currency": "EUR",
+    "at": 1497169753318,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2576.86,
+    "currency": "EUR",
+    "at": 1497169813589,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2577.16,
+    "currency": "EUR",
+    "at": 1497169873916,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2577.19,
+    "currency": "EUR",
+    "at": 1497169934469,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2574.6,
+    "currency": "EUR",
+    "at": 1497169995270,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2574.68,
+    "currency": "EUR",
+    "at": 1497170056460,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2574.66,
+    "currency": "EUR",
+    "at": 1497170117522,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2574.55,
+    "currency": "EUR",
+    "at": 1497170173370,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2573.32,
+    "currency": "EUR",
+    "at": 1497170233380,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2573.32,
+    "currency": "EUR",
+    "at": 1497170293696,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2575.02,
+    "currency": "EUR",
+    "at": 1497170353262,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2574.99,
+    "currency": "EUR",
+    "at": 1497170414471,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2580.63,
+    "currency": "EUR",
+    "at": 1497170475292,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2579.99,
+    "currency": "EUR",
+    "at": 1497170536613,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2579.99,
+    "currency": "EUR",
+    "at": 1497170593299,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2580.36,
+    "currency": "EUR",
+    "at": 1497170653345,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2582.65,
+    "currency": "EUR",
+    "at": 1497170713680,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2582.62,
+    "currency": "EUR",
+    "at": 1497170773782,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2580.95,
+    "currency": "EUR",
+    "at": 1497170833868,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.98,
+    "currency": "EUR",
+    "at": 1497174070226,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.34,
+    "currency": "EUR",
+    "at": 1497177296467,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2600.86,
+    "currency": "EUR",
+    "at": 1497178248024,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.9,
+    "currency": "EUR",
+    "at": 1497180643653,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.15,
+    "currency": "EUR",
+    "at": 1497181967553,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.14,
+    "currency": "EUR",
+    "at": 1497182026999,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.13,
+    "currency": "EUR",
+    "at": 1497182086957,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2591.99,
+    "currency": "EUR",
+    "at": 1497182148014,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.15,
+    "currency": "EUR",
+    "at": 1497182209663,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.9,
+    "currency": "EUR",
+    "at": 1497182271093,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.91,
+    "currency": "EUR",
+    "at": 1497182327021,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.87,
+    "currency": "EUR",
+    "at": 1497182386954,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2591.96,
+    "currency": "EUR",
+    "at": 1497182447429,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.77,
+    "currency": "EUR",
+    "at": 1497182507409,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.4,
+    "currency": "EUR",
+    "at": 1497182567467,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.73,
+    "currency": "EUR",
+    "at": 1497182628084,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.53,
+    "currency": "EUR",
+    "at": 1497182689061,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.44,
+    "currency": "EUR",
+    "at": 1497182749907,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.38,
+    "currency": "EUR",
+    "at": 1497182807025,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2591.16,
+    "currency": "EUR",
+    "at": 1497182867670,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2589.15,
+    "currency": "EUR",
+    "at": 1497182934373,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.57,
+    "currency": "EUR",
+    "at": 1497182987381,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.48,
+    "currency": "EUR",
+    "at": 1497183047294,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2591.13,
+    "currency": "EUR",
+    "at": 1497183107078,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.67,
+    "currency": "EUR",
+    "at": 1497183167488,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.75,
+    "currency": "EUR",
+    "at": 1497183227456,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.74,
+    "currency": "EUR",
+    "at": 1497183287152,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.02,
+    "currency": "EUR",
+    "at": 1497183347040,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.57,
+    "currency": "EUR",
+    "at": 1497183407473,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.06,
+    "currency": "EUR",
+    "at": 1497183467434,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.73,
+    "currency": "EUR",
+    "at": 1497183527080,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.53,
+    "currency": "EUR",
+    "at": 1497183587393,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.51,
+    "currency": "EUR",
+    "at": 1497183647555,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.53,
+    "currency": "EUR",
+    "at": 1497183709052,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.52,
+    "currency": "EUR",
+    "at": 1497183767530,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.82,
+    "currency": "EUR",
+    "at": 1497183827354,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.78,
+    "currency": "EUR",
+    "at": 1497183887380,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.94,
+    "currency": "EUR",
+    "at": 1497183948306,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.19,
+    "currency": "EUR",
+    "at": 1497184009256,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2589.39,
+    "currency": "EUR",
+    "at": 1497184078836,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2589.58,
+    "currency": "EUR",
+    "at": 1497184128785,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2588.57,
+    "currency": "EUR",
+    "at": 1497184190059,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2586.89,
+    "currency": "EUR",
+    "at": 1497184250630,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2588.73,
+    "currency": "EUR",
+    "at": 1497184307174,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2583.99,
+    "currency": "EUR",
+    "at": 1497184367906,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2588.58,
+    "currency": "EUR",
+    "at": 1497184374360,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2588.7,
+    "currency": "EUR",
+    "at": 1497184435093,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2588.83,
+    "currency": "EUR",
+    "at": 1497184496809,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2589.9,
+    "currency": "EUR",
+    "at": 1497184555384,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.57,
+    "currency": "EUR",
+    "at": 1497184614215,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.55,
+    "currency": "EUR",
+    "at": 1497184674161,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2589.13,
+    "currency": "EUR",
+    "at": 1497184734368,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.66,
+    "currency": "EUR",
+    "at": 1497184794404,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.46,
+    "currency": "EUR",
+    "at": 1497184855111,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.01,
+    "currency": "EUR",
+    "at": 1497184917765,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2585.8,
+    "currency": "EUR",
+    "at": 1497184977683,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2589.35,
+    "currency": "EUR",
+    "at": 1497185034950,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2586.31,
+    "currency": "EUR",
+    "at": 1497185094205,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2589.13,
+    "currency": "EUR",
+    "at": 1497185154431,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.34,
+    "currency": "EUR",
+    "at": 1497185214345,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.4,
+    "currency": "EUR",
+    "at": 1497185274579,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.69,
+    "currency": "EUR",
+    "at": 1497185335764,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2591.61,
+    "currency": "EUR",
+    "at": 1497185396892,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2591.97,
+    "currency": "EUR",
+    "at": 1497185454831,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2591.94,
+    "currency": "EUR",
+    "at": 1497185514183,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.69,
+    "currency": "EUR",
+    "at": 1497185574174,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.55,
+    "currency": "EUR",
+    "at": 1497185634250,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.39,
+    "currency": "EUR",
+    "at": 1497185694245,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.74,
+    "currency": "EUR",
+    "at": 1497185754962,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.52,
+    "currency": "EUR",
+    "at": 1497185816150,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.64,
+    "currency": "EUR",
+    "at": 1497185877429,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.64,
+    "currency": "EUR",
+    "at": 1497185934717,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.63,
+    "currency": "EUR",
+    "at": 1497185994281,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.63,
+    "currency": "EUR",
+    "at": 1497186054301,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.63,
+    "currency": "EUR",
+    "at": 1497186114343,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.64,
+    "currency": "EUR",
+    "at": 1497186174583,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.64,
+    "currency": "EUR",
+    "at": 1497186235848,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.63,
+    "currency": "EUR",
+    "at": 1497186296516,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.63,
+    "currency": "EUR",
+    "at": 1497186358064,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.63,
+    "currency": "EUR",
+    "at": 1497186414414,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.64,
+    "currency": "EUR",
+    "at": 1497186476213,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.63,
+    "currency": "EUR",
+    "at": 1497186535877,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.64,
+    "currency": "EUR",
+    "at": 1497186595853,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.93,
+    "currency": "EUR",
+    "at": 1497186657015,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.93,
+    "currency": "EUR",
+    "at": 1497186718154,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2596.01,
+    "currency": "EUR",
+    "at": 1497186775880,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.34,
+    "currency": "EUR",
+    "at": 1497186835792,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.64,
+    "currency": "EUR",
+    "at": 1497186895847,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.7,
+    "currency": "EUR",
+    "at": 1497186956874,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.21,
+    "currency": "EUR",
+    "at": 1497187021744,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.14,
+    "currency": "EUR",
+    "at": 1497187076064,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.13,
+    "currency": "EUR",
+    "at": 1497187136114,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.15,
+    "currency": "EUR",
+    "at": 1497187196186,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.2,
+    "currency": "EUR",
+    "at": 1497187258022,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2598.74,
+    "currency": "EUR",
+    "at": 1497187315885,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2596.53,
+    "currency": "EUR",
+    "at": 1497187375434,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.51,
+    "currency": "EUR",
+    "at": 1497187435510,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.57,
+    "currency": "EUR",
+    "at": 1497187495447,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2595.53,
+    "currency": "EUR",
+    "at": 1497187556635,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2596.29,
+    "currency": "EUR",
+    "at": 1497187617796,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.87,
+    "currency": "EUR",
+    "at": 1497187678588,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2596.3,
+    "currency": "EUR",
+    "at": 1497187737446,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.41,
+    "currency": "EUR",
+    "at": 1497187796074,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.51,
+    "currency": "EUR",
+    "at": 1497187855773,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.44,
+    "currency": "EUR",
+    "at": 1497187915519,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.75,
+    "currency": "EUR",
+    "at": 1497187977653,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.72,
+    "currency": "EUR",
+    "at": 1497188039399,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2602.78,
+    "currency": "EUR",
+    "at": 1497188095539,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.22,
+    "currency": "EUR",
+    "at": 1497188155815,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.42,
+    "currency": "EUR",
+    "at": 1497188215849,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.52,
+    "currency": "EUR",
+    "at": 1497188372379,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2604.46,
+    "currency": "EUR",
+    "at": 1497188430950,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2608.14,
+    "currency": "EUR",
+    "at": 1497188491018,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.07,
+    "currency": "EUR",
+    "at": 1497188550542,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2603.07,
+    "currency": "EUR",
+    "at": 1497188610938,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2601.29,
+    "currency": "EUR",
+    "at": 1497188671353,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.06,
+    "currency": "EUR",
+    "at": 1497188731917,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.2,
+    "currency": "EUR",
+    "at": 1497188742155,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.2,
+    "currency": "EUR",
+    "at": 1497188803245,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.17,
+    "currency": "EUR",
+    "at": 1497188863919,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.75,
+    "currency": "EUR",
+    "at": 1497188921100,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.75,
+    "currency": "EUR",
+    "at": 1497188981211,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.75,
+    "currency": "EUR",
+    "at": 1497189040666,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2589,
+    "currency": "EUR",
+    "at": 1497189101257,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2591.9,
+    "currency": "EUR",
+    "at": 1497189160634,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2596.29,
+    "currency": "EUR",
+    "at": 1497189221636,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.48,
+    "currency": "EUR",
+    "at": 1497189283142,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2599.11,
+    "currency": "EUR",
+    "at": 1497189344128,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.89,
+    "currency": "EUR",
+    "at": 1497189401210,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.42,
+    "currency": "EUR",
+    "at": 1497189460627,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.43,
+    "currency": "EUR",
+    "at": 1497189520993,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.42,
+    "currency": "EUR",
+    "at": 1497189581515,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2597.43,
+    "currency": "EUR",
+    "at": 1497189640699,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.46,
+    "currency": "EUR",
+    "at": 1497189701380,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.89,
+    "currency": "EUR",
+    "at": 1497189762617,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2590.28,
+    "currency": "EUR",
+    "at": 1497189823199,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2592.28,
+    "currency": "EUR",
+    "at": 1497189884433,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2594.47,
+    "currency": "EUR",
+    "at": 1497189941136,
+    "currencyPair": "BTC-EUR"
+  },
+  {
+    "amount": 2593.53,
+    "currency": "EUR",
+    "at": 1497190000683,
+    "currencyPair": "BTC-EUR"
+  }
+]
